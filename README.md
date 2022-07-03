@@ -1,6 +1,8 @@
 # newsbot
-<img width="629" alt="Screen Shot 2022-07-03 at 8 58 59 PM" src="https://user-images.githubusercontent.com/72641482/177041400-3609696c-9b7f-4604-b330-75807753e1d7.png">
-![Uploading Screen Shot 2022-07-03 at 8.59.07 PM.png…]()
+<img width="622" alt="Screen Shot 2022-07-03 at 9 13 24 PM" src="https://user-images.githubusercontent.com/72641482/177041408-8ca9b417-df42-4236-9889-3f3c4648ade0.png">
+<img width="703" alt="Screen Shot 2022-07-03 at 9 13 43 PM" src="https://user-images.githubusercontent.com/72641482/177041412-eb1c65e7-0775-4b5a-b84b-2447b35ea2d3.png">
+
+
 
 
 This Discord Bot keeps users updated on the daily headlines of the day. The bot leverages Google's News API which provides developers access to the headlines from a variety of sources. 
